@@ -6,9 +6,9 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Shop fruitz</title>
+    <title>Produit</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="product.css">
 </head>
 <body>
     
